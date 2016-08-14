@@ -1,0 +1,6 @@
+name: PlayerThrottleBungee
+version: 1.2-SNAPSHOT
+description: A plugin that sets a limit to the number of players allowed to join from one IP.
+author: Vik1395
+
+main: me.vik1395.PlayerThrottleBungee.Main
